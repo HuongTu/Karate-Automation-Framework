@@ -1,0 +1,5 @@
+2024/12/13-14:47:02.486 2e03 Creating DB /Users/trangthu/Downloads/Karate-Automation-Framework/target/chrome_1734076021770/Default/Local Storage/leveldb since it was missing.
+2024/12/13-14:47:02.514 2e03 Reusing MANIFEST /Users/trangthu/Downloads/Karate-Automation-Framework/target/chrome_1734076021770/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/13-14:47:17.281 2f03 Level-0 table #5: started
+2024/12/13-14:47:17.286 2f03 Level-0 table #5: 47108 bytes OK
+2024/12/13-14:47:17.294 2f03 Delete type=0 #3
